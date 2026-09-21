@@ -5,7 +5,7 @@
 * Install ReShade
 * Target the WowB.exe file located in \World of Warcraft_classic_beta_
 * Install all available shaders
-* Download my ReShadePreset.ini file
+* Download my [ReShadePreset.ini file](https://github.com/Poulpiix/reshade-preset-WoW-Forever/blob/main/ReShadePreset.ini)
 * Place it in \World of Warcraft_classic_beta_
 * Open ReShade in-game using the Home key (you can change it)
 * In the Home tab when ReShade is open, click +
