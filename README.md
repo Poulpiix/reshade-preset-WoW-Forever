@@ -2,14 +2,14 @@
 
 ## Preset Graphique World of Warcraft Forever
 
-* Installer Reshade
-* Viser le WowB.exe situé dans \World of Warcraft\_classic_beta_
-* Installer tous les shaders possible
-* Télécharger mon fichier ReShadePreset.ini
-* Placer le dans \World of Warcraft\_classic_beta_
-* Ouvrir Reshade en jeu avec la touche "Home" (vous pouvez la modifier)
-* Dans Accueil quand Reshade est ouvert, cliquez sur "+"
-* Dans Modele : sélectionné le ReshadePreset.ini
-* Donnez lui un nom
+* Install ReShade
+* Target the WowB.exe file located in \World of Warcraft_classic_beta_
+* Install all available shaders
+* Download my ReShadePreset.ini file
+* Place it in \World of Warcraft_classic_beta_
+* Open ReShade in-game using the Home key (you can change it)
+* In the Home tab when ReShade is open, click +
+* In Preset: select ReShadePreset.ini
+* Give it a name
 
 ![alt text](https://raw.githubusercontent.com/Poulpiix/media/refs/heads/main/Fixstatswowforever.png)
